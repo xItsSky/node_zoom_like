@@ -11,7 +11,7 @@
 
 > A nodeJS web application allowing to organize meeting in different room like Zoom
 
-### 🏠 [Homepage](https://github.com/ItsSkylow/node_zoom_like)
+### 🏠 [Homepage](https://github.com/xItsSky/node_zoom_like)
 
 ## Prerequisites
 
@@ -44,8 +44,8 @@ npm run start
 
 👤 **ItsSky**
 
-* GitHub: [@ItsSky](https://github.com/ItsSkylow)
+* GitHub: [@ItsSky](https://github.com/xItsSky)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/ItsSkylow/ShifumiIHM2020/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/xItsSky/node_zoom_like/issues). 
